@@ -1,0 +1,13 @@
+C:\Users\Djalma\Documents\ADS\Algoritmos\Resenha_ALP\teste_Cs\bin\Debug\netcoreapp3.1\teste_cs.exe
+C:\Users\Djalma\Documents\ADS\Algoritmos\Resenha_ALP\teste_Cs\bin\Debug\netcoreapp3.1\teste_cs.deps.json
+C:\Users\Djalma\Documents\ADS\Algoritmos\Resenha_ALP\teste_Cs\bin\Debug\netcoreapp3.1\teste_cs.runtimeconfig.json
+C:\Users\Djalma\Documents\ADS\Algoritmos\Resenha_ALP\teste_Cs\bin\Debug\netcoreapp3.1\teste_cs.runtimeconfig.dev.json
+C:\Users\Djalma\Documents\ADS\Algoritmos\Resenha_ALP\teste_Cs\bin\Debug\netcoreapp3.1\teste_cs.dll
+C:\Users\Djalma\Documents\ADS\Algoritmos\Resenha_ALP\teste_Cs\bin\Debug\netcoreapp3.1\teste_cs.pdb
+C:\Users\Djalma\Documents\ADS\Algoritmos\Resenha_ALP\teste_Cs\obj\Debug\netcoreapp3.1\teste_cs.csprojAssemblyReference.cache
+C:\Users\Djalma\Documents\ADS\Algoritmos\Resenha_ALP\teste_Cs\obj\Debug\netcoreapp3.1\teste_cs.AssemblyInfoInputs.cache
+C:\Users\Djalma\Documents\ADS\Algoritmos\Resenha_ALP\teste_Cs\obj\Debug\netcoreapp3.1\teste_cs.AssemblyInfo.cs
+C:\Users\Djalma\Documents\ADS\Algoritmos\Resenha_ALP\teste_Cs\obj\Debug\netcoreapp3.1\teste_cs.csproj.CoreCompileInputs.cache
+C:\Users\Djalma\Documents\ADS\Algoritmos\Resenha_ALP\teste_Cs\obj\Debug\netcoreapp3.1\teste_cs.dll
+C:\Users\Djalma\Documents\ADS\Algoritmos\Resenha_ALP\teste_Cs\obj\Debug\netcoreapp3.1\teste_cs.pdb
+C:\Users\Djalma\Documents\ADS\Algoritmos\Resenha_ALP\teste_Cs\obj\Debug\netcoreapp3.1\teste_cs.genruntimeconfig.cache
